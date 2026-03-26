@@ -1,2 +1,2 @@
-# Coraz-n-Delator
+# Corazón-Delator
 Experiencia Interactiva
